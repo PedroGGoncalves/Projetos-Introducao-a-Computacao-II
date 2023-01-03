@@ -79,12 +79,13 @@ void matriz_carregar(FILE *fp,FILE *fp2,FILE *fp3,FILE *fp4) //Carregar Matriz
 void abrir_arquivo(FILE *fp, FILE *fp2,FILE *fp3,FILE *fp4) //Abrir Arquivos
 {
 	
-	fp =fopen ("exemplo.pgm","r");
+	fp =fopen ("exemplo.pgm","r"); //Para ter outra entrada é só alterar para o nome correspondente
 	if(fp  == NULL)
 	{
 		printf("Impossivel de abrir o arquivo ou Arquivo nao encontrado.\n");
 		return ;
 	}
+	//Se quiser outro nome para saída é só alterar abaixo
 	fp2 =fopen ("exemplo_limiar.pgm","w");
 	fp3 =fopen ("exemplo_negativa.pgm","w");
 	fp4 =fopen ("exemplo_histograma.txt","w");
