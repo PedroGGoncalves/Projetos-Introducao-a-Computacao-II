@@ -1,6 +1,13 @@
 # Projetos-Introducao-a-Computacao-II
 São projetos desenvolvidos na disciplina de Introdução à Computação II (IC2), também conhecida como Algoritmos e Técnicas de Programação II (ATP2).
 
+### 📋 Pré-requisitos do Projeto 1
+GIMP - Para gerar imagens PGM e visualizá-las. Abaixo, segue um link para download
+
+```
+https://www.gimp.org/downloads/
+```
+
 ## ⚙️ Arquivos
 
 Aqui explico cada um dos arquivos presentes aqui.
