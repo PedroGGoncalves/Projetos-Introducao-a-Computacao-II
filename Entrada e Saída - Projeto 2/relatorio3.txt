@@ -1,0 +1,15 @@
+-------------------------
+1 sem matriculados
+2 sem matriculados
+Disciplina: 3
+Media Geral: 5.50
+Aprovados: 100%
+4 sem matriculados
+Disciplina: 5
+Media Geral: 8.00
+Aprovados: 100%
+7 sem matriculados
+Disciplina: 8
+Media Geral: 1.00
+Aprovados: 0%
+10 sem matriculados

@@ -1,0 +1,10 @@
+-------------------------
+RA: 3
+Ano: 4
+Semestre: 2
+Cod Disciplina: 5
+Nota: 8.00
+Freq: 69.00
+Aprovado!
+Media Geral: 8.00
+-------------------------

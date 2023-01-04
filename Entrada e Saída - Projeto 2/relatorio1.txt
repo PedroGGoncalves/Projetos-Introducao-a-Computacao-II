@@ -1,0 +1,29 @@
+-------------------------
+Tipos Sanguineos
+O+ tem 1 alunos
+O- tem 0 alunos
+A+ tem 2 alunos
+A- tem 2 alunos
+AB+ tem 0 alunos
+AB- tem 1 alunos
+B+ tem 2 alunos
+B- tem 0 alunos
+-------------------------
+Estados Civis
+Alunos Casados: 3
+Alunos Solteiros: 5
+-------------------------
+Aluno Mais Velho
+RA: 8
+Nome: Florentina
+
+Tipo Sanguineo: B+
+Estado Civil:Solteiro
+Email: flor@yahoo.com
+
+Curso: Cinema
+
+DtNasc: 22/08/1933
+Telefone: 30103296
+
+-------------------------
