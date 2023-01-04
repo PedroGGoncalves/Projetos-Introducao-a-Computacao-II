@@ -18,3 +18,4 @@ Aqui explico cada um dos arquivos presentes aqui.
 * Entradas e Saídas - Projeto 1 - Pasta com subpastas, que contém uma entrada e suas respectivas saídas geradas
 * Projeto2.cpp - Projeto onde ocorre uma manipulação básica em arquivos binários e onde é gerado um relatório
 * Projeto2.pdf - Arquivo com informações para desenvolvimento do Projeto 2
+* Entradas e Saídas - Projeto 2 - Pasta que contém uma entrada e suas respectivas saídas geradas. Para facilitar o teste do código, é aconselhável ir fazer passo a passo (testar cada um das funções) e ir observando as alterações das saídas/arquivos gerados 
